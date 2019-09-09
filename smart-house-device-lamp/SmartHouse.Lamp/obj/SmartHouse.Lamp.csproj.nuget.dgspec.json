@@ -1,0 +1,98 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Oleksii\\Desktop\\smart-house-device-lamp\\smart-house-device-lamp\\SmartHouse.Lamp\\SmartHouse.Lamp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Oleksii\\Desktop\\smart-house-device-lamp\\smart-house-device-lamp\\SmartHouse.Lamp\\SmartHouse.Lamp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Oleksii\\Desktop\\smart-house-device-lamp\\smart-house-device-lamp\\SmartHouse.Lamp\\SmartHouse.Lamp.csproj",
+        "projectName": "SmartHouse.Lamp",
+        "projectPath": "C:\\Users\\Oleksii\\Desktop\\smart-house-device-lamp\\smart-house-device-lamp\\SmartHouse.Lamp\\SmartHouse.Lamp.csproj",
+        "packagesPath": "C:\\Users\\Oleksii\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Oleksii\\Desktop\\smart-house-device-lamp\\smart-house-device-lamp\\SmartHouse.Lamp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Oleksii\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.SignalR.Client": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Microsoft.AspNetCore.SignalR.Client.Core": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.8.1, )"
+            },
+            "NLog": {
+              "target": "Package",
+              "version": "[4.6.7, )"
+            },
+            "NLog.Config": {
+              "target": "Package",
+              "version": "[4.6.7, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

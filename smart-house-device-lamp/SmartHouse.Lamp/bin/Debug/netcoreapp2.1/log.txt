@@ -1,0 +1,2 @@
+2019-09-03 18:07:56.4371|INFO|SmartHouse.Lamp.DeviceConnect.ConnectToHub|Connected
+2019-09-03 18:07:59.9374|INFO|SmartHouse.Lamp.DeviceConnect.ConnectToHub|Device On

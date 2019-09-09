@@ -1,0 +1,17 @@
+﻿{
+  "mac": "2141237",
+  "Name": "Lamp",
+  "On": 
+  {
+    "ConnectionId": "1",
+    "Name": "On",
+    "Address": "On"
+
+  },
+  "Off": 
+  {
+    "ConnectionId": "2",
+    "Name": "Off",
+    "Address": "Off"
+  }
+}
